@@ -17,7 +17,6 @@ Built with an emphasis on clean architecture and WebGL performance:
 - **Data-Driven Design** via ScriptableObjects (`TowerData`, `EnemyData`) — balance tuning without touching code
 - **Object Pooling** for enemies, projectiles, and audio sources — critical for stable WebGL performance
 - **State Machine** via C# events — decoupled game state management
-- **Isometric Y-sorting** — automatic sprite depth sorting using a custom camera axis
 
 ---
 
