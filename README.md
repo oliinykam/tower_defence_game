@@ -1,5 +1,7 @@
 # 🏰 Tower Defense — Unity Project
 
+**👥Authors:** [Oliinyk Andrii](https://github.com/oliinykam) • [Nadiia Stelmakh](https://github.com/StelmakhNadiia) 
+
 > Academic project. A 2D isometric Tower Defense game built with Unity, targeting WebGL.
 
 🎮 **[Play the WebGL build](https://your-build-link-here)**
