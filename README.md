@@ -4,7 +4,7 @@
 
 > Academic project. A 2D isometric Tower Defense game built with Unity, targeting WebGL.
 
-🎮 **[Play the WebGL build](https://your-build-link-here)**
+🎮 **[Play the WebGL build](//oliinikam.itch.io/unityproject)**
 
 ---
 
@@ -35,7 +35,7 @@ Built with an emphasis on clean architecture and WebGL performance:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/tower-defense.git
+   git clone https://github.com/oliinykam/tower-defense.git
    ```
 2. Open **Unity Hub** → **Projects** tab → click **Open**.
 3. Point it to the project folder (the one containing `Assets/` and `ProjectSettings/`).
@@ -111,9 +111,3 @@ Assets/
 | Background music | OpenGameArt.org (CC0) |
 | Engine | Unity 2022.3 LTS |
 | UI text | TextMeshPro (Unity package) |
-
----
-
-## WebGL Build Repository
-
-The compiled WebGL build is hosted in a [separate repository](https://your-build-repo-link-here).
