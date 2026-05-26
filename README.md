@@ -4,7 +4,7 @@
 
 > Academic project. A 2D isometric Tower Defense game built with Unity, targeting WebGL.
 
-🎮 **[Play the WebGL build](//oliinikam.itch.io/unityproject)**
+🎮 **[Play the WebGL build](https://oliinikam.itch.io/unityproject)**
 
 ---
 
@@ -23,11 +23,21 @@ Built with an emphasis on clean architecture and WebGL performance:
 
 ## Requirements
 
-- **Unity Hub** + **Unity 2022.3 LTS** or newer
-- Packages install automatically on first open:
-  - TextMeshPro
-  - 2D Tilemap
-  - 2D Sprite
+| Requirement | Version |
+| :--- | :--- |
+| **Unity Editor** | **Unity 6.3 LTS** `6000.3.11f1` |
+| **Unity Hub** | 3.0 or newer |
+| **OS** | Windows 10/11, macOS 12+, Ubuntu 20.04+ |
+
+> ⚠️ **Important:** The project was developed and tested on **Unity 6.3 LTS (6000.3.11f1)**. Opening it in older versions (e.g. 2022.x or 2021.x) is **not recommended** and may cause errors. Newer Unity 6 patch versions should be compatible.
+
+The following packages install **automatically** when you first open the project via Unity Hub:
+
+- **TextMeshPro** — UI text rendering
+- **2D Tilemap** — map and path tile system
+- **2D Sprite** — sprite slicing and atlasing
+
+Don't have Unity yet? Download Unity Hub from [unity.com/download](https://unity.com/download), then install the **Unity 6.3 LTS** (`6000.3.11f1`) editor from the *Installs* tab.
 
 ---
 
@@ -109,5 +119,3 @@ Assets/
 | Sprites (tiles, towers, enemies, UI) | AI-generated (DALL-E / Midjourney) |
 | Sound effects | freesound.org (CC0) |
 | Background music | OpenGameArt.org (CC0) |
-| Engine | Unity 2022.3 LTS |
-| UI text | TextMeshPro (Unity package) |
