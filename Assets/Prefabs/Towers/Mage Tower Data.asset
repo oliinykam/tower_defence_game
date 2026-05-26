@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3fd9b25a76a72479da7659876d9de2, type: 3}
+  m_Name: Mage Tower Data
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  towerName: Mage Tower
+  towerPrice: 150
+  range: 3
+  fireRate: 1.3
+  arrowPrefab: {fileID: 3410947052340114786, guid: 9507c6e61fb2be540bbca230e6089d6c, type: 3}
+  cloudPS: {fileID: 7352451521600493086, guid: 5d500c723ff8b75448b9f98b5aaf63a1, type: 3}
+  shootSFX: {fileID: 8300000, guid: cc4d7fe5b293e2e439284ec89eaeeaf2, type: 3}
+  visualOffset: {x: 0, y: -0.6}
+  circleOffset: {x: 0, y: 0}
+  isAura: 0
+  slowAmount: 0.5
+  slowDuration: 2

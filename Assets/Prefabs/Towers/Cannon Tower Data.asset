@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3fd9b25a76a72479da7659876d9de2, type: 3}
+  m_Name: Cannon Tower Data
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  towerName: Cannon Tower
+  towerPrice: 200
+  range: 6
+  fireRate: 0.5
+  arrowPrefab: {fileID: 4998573041527950963, guid: b927a0c8c424a6248a3ec2ff81994f91, type: 3}
+  cloudPS: {fileID: 7352451521600493086, guid: 5d500c723ff8b75448b9f98b5aaf63a1, type: 3}
+  shootSFX: {fileID: 8300000, guid: 021df04fbdb0afa40975b1db1d38e3d9, type: 3}
+  visualOffset: {x: 0, y: -0.6}
+  circleOffset: {x: 0, y: 0}
+  isAura: 0
+  slowAmount: 0.5
+  slowDuration: 2

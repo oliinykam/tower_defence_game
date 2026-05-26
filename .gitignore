@@ -1,0 +1,61 @@
+# This .gitignore file should be placed at the root of your Unity project
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should only be ignored when the asset itself is ignored
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated files
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+sysinfo.txt
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+*.sln.iml
+
+# Addressables
+ServerData/
+
+# Generated lighting data
+GIcache/
+
+# If using packages from local cache
+# Packages/packages-lock.json
